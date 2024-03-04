@@ -1,0 +1,15 @@
+/home/petala/Documents/projetos/wildlife-animals-management/WildlifeAnimalManagement/bin/Debug/net8.0/WildlifeAnimalManagement
+/home/petala/Documents/projetos/wildlife-animals-management/WildlifeAnimalManagement/bin/Debug/net8.0/WildlifeAnimalManagement.deps.json
+/home/petala/Documents/projetos/wildlife-animals-management/WildlifeAnimalManagement/bin/Debug/net8.0/WildlifeAnimalManagement.runtimeconfig.json
+/home/petala/Documents/projetos/wildlife-animals-management/WildlifeAnimalManagement/bin/Debug/net8.0/WildlifeAnimalManagement.dll
+/home/petala/Documents/projetos/wildlife-animals-management/WildlifeAnimalManagement/bin/Debug/net8.0/WildlifeAnimalManagement.pdb
+/home/petala/Documents/projetos/wildlife-animals-management/WildlifeAnimalManagement/obj/Debug/net8.0/WildlifeAnimalManagement.GeneratedMSBuildEditorConfig.editorconfig
+/home/petala/Documents/projetos/wildlife-animals-management/WildlifeAnimalManagement/obj/Debug/net8.0/WildlifeAnimalManagement.AssemblyInfoInputs.cache
+/home/petala/Documents/projetos/wildlife-animals-management/WildlifeAnimalManagement/obj/Debug/net8.0/WildlifeAnimalManagement.AssemblyInfo.cs
+/home/petala/Documents/projetos/wildlife-animals-management/WildlifeAnimalManagement/obj/Debug/net8.0/WildlifeAnimalManagement.csproj.CoreCompileInputs.cache
+/home/petala/Documents/projetos/wildlife-animals-management/WildlifeAnimalManagement/obj/Debug/net8.0/WildlifeAnimalManagement.sourcelink.json
+/home/petala/Documents/projetos/wildlife-animals-management/WildlifeAnimalManagement/obj/Debug/net8.0/WildlifeAnimalManagement.dll
+/home/petala/Documents/projetos/wildlife-animals-management/WildlifeAnimalManagement/obj/Debug/net8.0/refint/WildlifeAnimalManagement.dll
+/home/petala/Documents/projetos/wildlife-animals-management/WildlifeAnimalManagement/obj/Debug/net8.0/WildlifeAnimalManagement.pdb
+/home/petala/Documents/projetos/wildlife-animals-management/WildlifeAnimalManagement/obj/Debug/net8.0/WildlifeAnimalManagement.genruntimeconfig.cache
+/home/petala/Documents/projetos/wildlife-animals-management/WildlifeAnimalManagement/obj/Debug/net8.0/ref/WildlifeAnimalManagement.dll
