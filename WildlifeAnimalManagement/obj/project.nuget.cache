@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "40uQ29JsWHOj9NyUwOVlZ7/9HdfP+Qr8sq3+Tpw6aTDD1dvNlHm7OP88KWIphqth5/gitNBW5pWl6vaWypxEwA==",
+  "success": true,
+  "projectFilePath": "/home/petala/Documents/projetos/wildlife-animals-management/WildlifeAnimalManagement/WildlifeAnimalManagement.csproj",
+  "expectedPackageFiles": [
+    "/home/petala/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
