@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿string animalSpecies = "";
+string animalID = "";
+string animalAge = "";
+string animalName = "";
+string animalRescureLocation = "";
+string animalEntryDate = "";
+
+int maxAnimals = 10;
